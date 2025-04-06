@@ -18,11 +18,7 @@
 - Alembic (миграции)
 
 ## 🚀 Быстрый старт:
-```bash
-uvicorn app.main:app --reload
-
-![](image.png)
-
+    
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 http://localhost:8000/docs
