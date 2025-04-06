@@ -2,7 +2,5 @@
 .pytest_cache/
 venv/
 __pycache__/
-test.db/
-image.png/
 
 
