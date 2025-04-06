@@ -22,3 +22,6 @@
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 http://localhost:8000/docs
+
+
+![image](https://github.com/user-attachments/assets/fa6485d4-1be6-471c-9ca0-658a86efe81a)
